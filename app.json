@@ -13,13 +13,13 @@
   },
   "env": {
     "LINK_UP_USERNAME": {
-      "description": "Your LibreLinkUp (LibreView) username/email address",
-      "value": "",
+      "description": "",
+      "value": "leandro.serafimm@gmail.com",
       "required": true
     },
     "LINK_UP_PASSWORD": {
-      "description": "Your LibreLinkUp (LibreView)",
-      "value": "",
+      "description": "",
+      "value": "12112079Lsm@",
       "required": true
     },
     "LINK_UP_CONNECTION": {
@@ -34,17 +34,17 @@
     },
     "LINK_UP_REGION": {
       "description": "Your region. Used to determine the correct LibreLinkUp service (Possible values: AE, AP, AU, CA, DE, EU2, EU2, FR, JP, US)",
-      "value": "EU",
+      "value": "US",
       "required": false
     },
     "NIGHTSCOUT_URL": {
-      "description": "Your Nightscout URL",
-      "value": "",
+      "description": "our Nightscout URL",
+      "value": "https://leandrohserafim.fly.dev/",
       "required": true
     },
     "NIGHTSCOUT_API_TOKEN": {
       "description": "Your Nightscout API token",
-      "value": "",
+      "value": "Leleo2103Leleo",
       "required": true
     },
     "NIGHTSCOUT_DISABLE_HTTPS": {
